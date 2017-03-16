@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Groovify",
+  "name": "Learn-Gold",
   "description": "This extension groovifies the current page",
   "version": "1.0.0",
   "browser_action": {
@@ -8,11 +8,11 @@
   },
   "permissions": [
     "tabs",
-    "https://facebook.com/"
+    "https://learn.gold.ac.uk/"
   ],
   "content_scripts": [
     {
-      "matches": ["https://www.facebook.com/*"],
+      "matches": ["https://learn.gold.ac.uk/*"],
       "css" : ["fb.css"]
     }
   ]

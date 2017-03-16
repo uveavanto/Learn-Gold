@@ -35,25 +35,7 @@ body, #contentCol{
     50%{background-position:100% 19%}
     100%{background-position:0% 82%}
 }
-._s0._5xib._5sq7._44ma._rw.img, ._3b-9 .img._54ru, ._55lt img, .fbFeedTickerBorder .img._54ru {
-    content:url('http://www.rdsbzlabs.com/parrot.gif');
-}
-._s0._44ma.img, ._2o9m .img._54ru,._s0._7ql._ry.img, #userNav .img{
-    content:url('http://cultofthepartyparrot.com/assets/sirocco.gif');
-}
-._2t-a._26aw._5rmj._50ti._2s1y {
-    background: #03a9b5 !important;
-}
-._2md {
-    background-image: url(https://hackupc.com/assets/img/hackupc-header.png) !important;
-    background-repeat: no-repeat !important;
-    background-size: 63px 42px !important;
-    background-position: 0px -8px !important;
-    display: block !important;
-    height: 25px !important;
-    outline: none !important;
-    overflow: hidden !important;
-    text-indent: -999px !important;
-    white-space: nowrap !important;
-    width: 65px !important;
+
+.navbar {
+    background-color: : blue;
 }
